@@ -6,11 +6,17 @@ This project is an SQL-based analysis of a music store database. The goal is to 
 💡 Business Questions Answered
 Using SQL queries, I analyzed the following:
 ✔️ Who is the best customer based on total spending?
+
 ✔️ Which city generates the highest revenue?
+
 ✔️ What is the most popular music genre in each country?
+
 ✔️ Who are the top 10 rock artists based on track count?
+
 ✔️ What are the longest songs in the database?
+
 ✔️ How many tracks have been sold per genre?
+
 ✔️ And much more…
 
 ⚙️ Tech Stack Used
