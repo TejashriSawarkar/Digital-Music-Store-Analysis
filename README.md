@@ -1,4 +1,5 @@
 🎵 Music Store Data Analysis – SQL Project 🎶
+
 📌 Overview
 This project is an SQL-based analysis of a music store database. The goal is to extract business insights using SQL queries. The database contains information about customers, invoices, tracks, artists, employees, and playlists.
 
